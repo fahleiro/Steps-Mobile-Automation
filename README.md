@@ -82,6 +82,7 @@ Percebe-se que antes da execução, não possuimos devices conectados
 
 Então, abra o emulador do BlueStack e, já na tela inicial do Android pode executar o adb-device-bluestacks (uma janela do cmd irá abrir e fechar rapidamente)
 Em seguida verifique novamente o comando adb devices, deverá constar o emulador em questão
+
 ![image](https://github.com/fahleiro/Steps-Mobile-Automation/assets/40614718/5c8d798a-9aec-43f2-9c3c-7f9e25b31d82)
 </details>
 
