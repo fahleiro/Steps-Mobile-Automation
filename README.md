@@ -6,10 +6,11 @@ Este guia complementa as configurações e programas necessários para rodar uma
 ## Sumário
 - [Overview](#overview)
 - [Pré-requisitos](#pré-requisitos)
-- [Step One, Start!](#step_one)
+- [Step One, Start!](#step-one-start)
 
 ## Pré-requisitos
 É indicado criar uma pasta específica para armazenar o conteúdo específico que é baixado a parte (sem instalador)
+
 ### Downloads
 - Java Development Kit 20.0.1 (java -version)
   [Clique para acessar o site oficial](https://www.oracle.com/br/java/technologies/downloads/#jdk20-windows)
@@ -30,7 +31,7 @@ Este guia complementa as configurações e programas necessários para rodar uma
 [Disponível diretamente pelo site do Android Studio](https://developer.android.com/studio/releases/platform-tools?hl=pt-br)
 
 - Package Name Viewer 2.0 (acessível via bluestack)
-[Disponível diretamente na Play Store]([https://developer.android.com/studio/releases/platform-tools?hl=pt-br](https://play.google.com/store/apps/details?id=com.csdroid.pkg&hl=pt_BR&gl=US&pli=1))
+[Disponível na Play Store](https://play.google.com/store/apps/details?id=com.csdroid.pkg&hl=pt_BR&gl=US&pli=1)
 
 ### Configurações de Ambiente
 - Variáveis de ambiente do sistema [Veja o CMD para configurar as variáveis](https://github.com/fahleiro/Steps-Mobile-Automation/blob/main/extra-cmd/config-path-var-ambiente.cmd)
