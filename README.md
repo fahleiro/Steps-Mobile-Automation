@@ -35,7 +35,49 @@ Este guia complementa as configurações e programas necessários para rodar uma
 
 ### Configurações de Ambiente
 - Variáveis de ambiente do sistema [Veja o CMD para configurar as variáveis](https://github.com/fahleiro/Steps-Mobile-Automation/blob/main/extra-cmd/config-path-var-ambiente.cmd)
-- ADB DEVICE BLUESTACK [Veja o CMD para configurar o ADB DEVICE BLUESTACK](https://github.com/fahleiro/Steps-Mobile-Automation/blob/main/extra-cmd/adb-device-bluestack.cmd)
+- ADB DEVICE BLUESTACKS [Veja o CMD para configurar o ADB DEVICE BLUESTACK](https://github.com/fahleiro/Steps-Mobile-Automation/blob/main/extra-cmd/adb-device-bluestack.cmd)
+<details>
+<summary>Liberar o BlueStacks para ser reconhecido pelo adb</summary>
+Em Settings > Advanced, selecione Android Debug Bridge (ADB)
+  
+![image](https://github.com/fahleiro/Steps-Mobile-Automation/assets/40614718/2f689060-8491-4811-b244-5642d2865166)
+
+
+</details>
 
 ## Step One, Start!
-Antes de iniciar em códigos, vamos verificar se conseguimos inicializar o AppiumServer e o AppiumInspector
+Antes de iniciar em códigos, vamos verificar se conseguimos inicializar o AppiumServer e o AppiumInspector corretamente.
+#### Appium Server
+Host: 127.0.0.1
+
+Port: 4723
+
+Em seguida "startServer"
+
+![image](https://github.com/fahleiro/Steps-Mobile-Automation/assets/40614718/e8383c49-9ba0-42d4-ac99-08e1cf781b57)
+
+<details>
+<summary><em>Caso apresente algum erro, verifique como estão as configurações em "Advanced"</em></summary>
+
+  
+![image](https://github.com/fahleiro/Steps-Mobile-Automation/assets/40614718/fd28fb70-763c-4163-9224-71f726bb115c)
+</details>
+
+
+<details>
+<summary><em>O retorno no console deve ser algo assim</em></summary>
+
+  
+![image](https://github.com/fahleiro/Steps-Mobile-Automation/assets/40614718/86a63d43-d582-4379-8e22-16c3bd1378aa)
+</details>
+
+#### Appium Inspector
+Antes de inicializarmos o Inspector
+
+
+
+
+
+
+
+
