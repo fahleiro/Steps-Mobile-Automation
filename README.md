@@ -29,5 +29,5 @@ Este guia complementa as configurações e programas necessários para rodar uma
 [Disponível diretamente pelo site do Android Studio](https://developer.android.com/studio/releases/platform-tools?hl=pt-br)
 
 ### Configurações de Ambiente
-- Variáveis de ambiente do sistema [Veja o CMD para configurar as variáveis](https://github.com/fahleiro/Steps-Mobile-Automation/blob/main/extra-cmd/config-path-var-ambiente.bat)
+- Variáveis de ambiente do sistema [Veja o CMD para configurar as variáveis](https://github.com/fahleiro/Steps-Mobile-Automation/blob/main/extra-cmd/config-path-var-ambiente.cmd)
 - ADB DEVICE BLUESTACK [Veja o CMD para configurar o ADB DEVICE BLUESTACK](https://github.com/fahleiro/Steps-Mobile-Automation/blob/main/extra-cmd/adb-device-bluestack.cmd)
