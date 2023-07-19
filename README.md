@@ -6,6 +6,7 @@ Este guia complementa as configurações e programas necessários para rodar uma
 ## Sumário
 - [Overview](#overview)
 - [Pré-requisitos](#pré-requisitos)
+- [Step One, Start](#step_one)
 
 ## Pré-requisitos
 É indicado criar uma pasta específica para armazenar o conteúdo específico que é baixado a parte (sem instalador)
