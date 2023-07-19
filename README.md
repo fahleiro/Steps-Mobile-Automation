@@ -6,7 +6,7 @@ Este guia complementa as configurações e programas necessários para rodar uma
 ## Sumário
 - [Overview](#overview)
 - [Pré-requisitos](#pré-requisitos)
-- [Step One, Start](#step_one)
+- [Step One, Start!](#step_one)
 
 ## Pré-requisitos
 É indicado criar uma pasta específica para armazenar o conteúdo específico que é baixado a parte (sem instalador)
@@ -29,6 +29,12 @@ Este guia complementa as configurações e programas necessários para rodar uma
 - Platform Tools
 [Disponível diretamente pelo site do Android Studio](https://developer.android.com/studio/releases/platform-tools?hl=pt-br)
 
+- Package Name Viewer 2.0 (acessível via bluestack)
+[Disponível diretamente na Play Store]([https://developer.android.com/studio/releases/platform-tools?hl=pt-br](https://play.google.com/store/apps/details?id=com.csdroid.pkg&hl=pt_BR&gl=US&pli=1))
+
 ### Configurações de Ambiente
 - Variáveis de ambiente do sistema [Veja o CMD para configurar as variáveis](https://github.com/fahleiro/Steps-Mobile-Automation/blob/main/extra-cmd/config-path-var-ambiente.cmd)
 - ADB DEVICE BLUESTACK [Veja o CMD para configurar o ADB DEVICE BLUESTACK](https://github.com/fahleiro/Steps-Mobile-Automation/blob/main/extra-cmd/adb-device-bluestack.cmd)
+
+## Step One, Start!
+Antes de iniciar em códigos, vamos verificar se conseguimos inicializar o AppiumServer e o AppiumInspector
