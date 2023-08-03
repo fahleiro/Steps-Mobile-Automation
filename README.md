@@ -12,7 +12,7 @@ Este guia complementa as configurações e programas necessários para rodar uma
 É indicado criar uma pasta específica para armazenar o conteúdo específico que é baixado a parte (sem instalador)
 
 ### Downloads
-- Java Development Kit 20.0.1 (java -version)
+- Java Development Kit 20.0.1 (java -version) (para o framework utilizar JDK8)
   [Clique para acessar o site oficial](https://www.oracle.com/br/java/technologies/downloads/#jdk20-windows)
 
 - Appium Inspector
